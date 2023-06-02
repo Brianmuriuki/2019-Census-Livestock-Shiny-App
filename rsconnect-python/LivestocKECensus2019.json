@@ -1,0 +1,11 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\Waiguru Analyst\\LivestocKECensus2019",
+        "app_url": "https://bm-muriuki.shinyapps.io/livestockecensus2019/",
+        "app_id": 9208680,
+        "app_guid": null,
+        "title": "LivestocKECensus2019",
+        "app_mode": "python-shiny"
+    }
+}

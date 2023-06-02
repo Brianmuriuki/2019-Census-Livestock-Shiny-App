@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "locale": "en_US.cp1252",
+  "metadata": {
+    "appmode": "python-shiny",
+    "entrypoint": "analysis.py"
+  },
+  "python": {
+    "version": "3.8.13",
+    "package_manager": {
+      "name": "pip",
+      "version": "21.2.2",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "3e2bf33e5f72cb33e8e148fab6a7c446"
+    },
+    "analysis.ipynb": {
+      "checksum": "d343bb12006554c671563422a43ba3b3"
+    },
+    "analysis.py": {
+      "checksum": "0ccfbba5732f53b626e9dd1c4ae68d6d"
+    }
+  }
+}

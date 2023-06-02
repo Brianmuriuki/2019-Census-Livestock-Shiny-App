@@ -1,0 +1,12 @@
+statsmodels
+openpyxl
+shiny
+shinywidgets
+seaborn
+plotly
+plotnine
+yfinance
+siuba
+jinja2
+shinyswatch
+geopandas
